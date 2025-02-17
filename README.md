@@ -12,7 +12,7 @@ Clase Enero-Junio 2025
 
 ## Actividades de Enero-Febrero
 - Actividad 6 - [Determinantes de Matrices](Actividades/A6_Determinantes_de_Matrices.pdf)
-- Actividad 7 - [Laboratorio de Repaso de Probabilidad y Estadística](Actividades/LabPyE.pdf)
+- Actividad 7 - [Laboratorio de Repaso de Probabilidad y Estadística](Actividades/LabPyE_IA.pdf)
 
 ## Actividades de Marzo
 ## Actividades de Abril-Mayo
