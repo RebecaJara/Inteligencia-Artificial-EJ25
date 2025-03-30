@@ -23,7 +23,7 @@ Clase Enero-Junio 2025
 
 ## Actividades de Marzo
 - Actividad 9 - Programando Regresión Lineal en Python [[PDF]](Regresion_Lineal/A9_RegLin.pdf) [[LaTeX]](Regresion_Lineal/LaTeX/A9_RegresionLineal.tex) [[Python]](Regresion_Lineal/RegresionLineal.py)
-- Actividad 10 - Programando Regresión Lineal Múltiple en Python 
-- Actividad 11 - Programando Regresión Logística en Python
+- Actividad 10 - Programando Regresión Lineal Múltiple en Python [[PDF]](Regresion_Lineal/A10_RegLinMult.pdf) [[LaTeX]](Regresion_Lineal/LaTeX/A10_RegresionLinealMultiple.tex) [[Python]](Regresion_Lineal/RegLinMult.py)
+- Actividad 11 - Programando Regresión Logística en Python [[PDF]](Regresion_Lineal/A11_RegLog.pdf) [[LaTeX]](Regresion_Lineal/LaTeX/A11_RegresionLogistica.tex) [[Python]](Regresion_Lineal/RegLog.py)
 ## Actividades de Abril-Mayo
 ## Actividades de Abril-Mayo
