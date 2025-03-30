@@ -22,7 +22,7 @@ Clase Enero-Junio 2025
 - Actividad 8 - [Laboratorio de Álgebra Lineal](Actividades/LabRepasoAL.pdf)
 
 ## Actividades de Marzo
-- Actividad 9 - Programando Regresión Lineal en Python
+- Actividad 9 - Programando Regresión Lineal en Python [[PDF]](Regresion_Lineal/A9_RegLin.pdf) [[LaTeX]](Regresion_Lineal/LaTeX/A9_RegresionLineal.tex) [[Python]](Regresion_Lineal/RegresionLineal.py)
 - Actividad 10 - Programando Regresión Lineal Múltiple en Python 
 - Actividad 11 - Programando Regresión Logística en Python
 ## Actividades de Abril-Mayo
