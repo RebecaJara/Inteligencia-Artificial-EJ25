@@ -19,6 +19,7 @@ Clase Enero-Junio 2025
 ## Actividades de Enero-Febrero
 - Actividad 6 - [Determinantes de Matrices](Actividades/A6_Determinantes_de_Matrices.pdf)
 - Actividad 7 - [Laboratorio de Repaso de Probabilidad y Estadística](Actividades/LabPyE_IA.pdf)
+- Actividad 8 - [Laboratorio de Álgebra Lineal](Actividades/LabRepasoAL.pdf)
 
 ## Actividades de Marzo
 - Actividad 9 - Programando Regresión Lineal en Python
