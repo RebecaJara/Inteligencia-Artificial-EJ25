@@ -15,6 +15,13 @@ Clase Enero-Junio 2025
 - [Intro to SQL](Kaggle/Intro_to_SQL.pdf)
 - [Advanced SQL](Kaggle/Advanced_SQL.pdf)
 - [Intro to Deep Learning](Kaggle/Intro_to_Deep_Learning.pdf)
+- [Computer Vision](Kaggle/ComputerVision.pdf)
+- [Time Series](Kaggle/TimeSeries.pdf)
+- [Data Cleaning](Kaggle/DataCleaning.pdf)
+- [Intro to AI Ethics](Kaggle/AI_Ethics.pdf)
+- [Geospatial Analysis](Kaggle/GeospatialAnalysis.pdf)
+- [Machine Learning Explainability](Kaggle/MachineLearningExplainability.pdf)
+- [Intro to Game AI and Reinforcement Learning](Kaggle/Intro_to_Game_AI_and_Reinforcement_Learning.pdf)
 
 ## Actividades de Enero-Febrero
 - Actividad 6 - [Determinantes de Matrices](Actividades/A6_Determinantes_de_Matrices.pdf)
