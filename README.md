@@ -29,8 +29,11 @@ Clase Enero-Junio 2025
 - Actividad 8 - [Laboratorio de Álgebra Lineal](Actividades/LabRepasoAL.pdf)
 
 ## Actividades de Marzo
-- Actividad 9 - Programando Regresión Lineal en Python [[PDF]](Regresion_Lineal/A9_RegLin.pdf) [[LaTeX]](Regresion_Lineal/LaTeX/A9_RegresionLineal.tex) [[Python]](Regresion_Lineal/RegresionLineal.py)
-- Actividad 10 - Programando Regresión Lineal Múltiple en Python [[PDF]](Regresion_Lineal/A10_RegLinMult.pdf) [[LaTeX]](Regresion_Lineal/LaTeX/A10_RegresionLinealMultiple.tex) [[Python]](Regresion_Lineal/RegLinMult.py)
-- Actividad 11 - Programando Regresión Logística en Python [[PDF]](Regresion_Lineal/A11_RegLog.pdf) [[LaTeX]](Regresion_Lineal/LaTeX/A11_RegresionLogistica.tex) [[Python]](Regresion_Lineal/RegLog.py)
-## Actividades de Abril-Mayo
+- Actividad 9 - Programando Regresión Lineal en Python [[PDF]](Regresion_Lineal/A9_RegLin.pdf) [[LaTeX]](Regresion_Lineal/LaTeX/A9_RegresionLineal.tex) 
+- Actividad 10 - Programando Regresión Lineal Múltiple en Python [[PDF]](Regresion_Lineal/A10_RegLinMult.pdf) [[LaTeX]](Regresion_Lineal/LaTeX/A10_RegresionLinealMultiple.tex) 
+- Actividad 11 - Programando Regresión Logística en Python [[PDF]](Regresion_Lineal/A11_RegLog.pdf) [[LaTeX]](Regresion_Lineal/LaTeX/A11_RegresionLogistica.tex) 
+- Actividad 12 - Programando Arbol de Decisión en Python [[PDF]](Arbol_De_Decision/arbol.pdf)
+- Actividad 13 - Programando Random Forest en Python [[PDF]](RandomForest/A13_RF.pdf)  
+- Actividad 14 - Programando K-Nearest-Neighbor en Python [[PDF]](K-NN/knn.pdf)  
+
 ## Actividades de Abril-Mayo
